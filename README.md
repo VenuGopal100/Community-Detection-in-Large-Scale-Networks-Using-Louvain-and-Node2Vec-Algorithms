@@ -1,6 +1,5 @@
 # Community-Detection-in-Large-Scale-Networks-Using-Louvain-and-Node2Vec-Algorithms
-✅ README.md
-# Community Detection in Large-Scale Networks Using Louvain and Node2Vec
+
 
 This project implements and compares two approaches for **community detection** on a large-scale social network graph, specifically the **com-youtube** dataset from SNAP. Community detection helps identify groups of nodes that are densely connected within the network, useful in applications like social network analysis, recommendation systems, and graph-based clustering.
 
